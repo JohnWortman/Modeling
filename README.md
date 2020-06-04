@@ -1,4 +1,4 @@
 Modeling
 ========
 
-This is a repository for some basic modeling I've done in my spare time.
+<del>This repository consists of all the codes I sold to first year students to pay my way through college.<del> 
