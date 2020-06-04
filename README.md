@@ -1,3 +1,3 @@
 # Modeling
 
-#This is a repository for some basic modeling I've done in my spare time.
+This is a repository for some basic modeling I've done in my spare time.
