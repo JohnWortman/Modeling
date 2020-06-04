@@ -3,4 +3,4 @@ Modeling
 
 <del>This repository consists of all the codes I sold to first year students to pay my way through college.<del> 
   
-This repository consists of models I have put together in my free time. 
+This repository consists of models I have put together in my free time to help learn python and perform basic analysis on energy and related projects. 
